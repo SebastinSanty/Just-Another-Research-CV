@@ -9,7 +9,8 @@ This template is adapted from [Yet Another Awesome CV (YAAC)](https://github.com
 The instructions are similar to YAAC.
 
 ## Preview
-![alt tag](CV.png)
+<!-- ![alt tag](CV.png =250x) -->
+<img src="CV.png" alt="drawing" width="400"/>
 
 ## Quick start
 
