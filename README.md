@@ -4,13 +4,13 @@ Just Another Research CV [![Example](https://img.shields.io/badge/Example-pdf-bl
 ## Motivation
 Research or Academic CVs like  are often not very good looking and feel very clunky. By give a slight tint and using better fonts, the style and look of the CV can be made much better.
 
-This template is adapted from [Yet Another Awesome CV (YAAC)](https://github.com/darwiin/yaac-another-awesome-cv) and is an effort towards making academic/research CVs more cool looking.
+This template is adapted from [Yet Another Awesome CV (YAAC)](https://github.com/darwiin/yaac-another-awesome-cv) and is an effort towards making academic/research CVs more cool looking. My version of this template can be seen [here](https://homes.cs.washington.edu/~ssanty/assets/sebastin_cv.pdf)
 
 The instructions are similar to YAAC.
 
 ## Preview
 <!-- ![alt tag](CV.png =250x) -->
-<img src="CV.png" alt="drawing" width="400"/>
+<img src="CV.jpg" alt="drawing" width="400"/>
 
 ## Quick start
 
